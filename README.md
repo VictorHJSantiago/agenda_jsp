@@ -55,6 +55,8 @@ Abra o seu navegador e aceda a: http://localhost:8080/agenda_jsp (ou o nome do c
 Abaixo está uma estrutura de tabelas provável para este tipo de sistema. (Deverá adaptar com base nos ficheiros .sql ou nas classes de modelo do seu projeto).
 
 SQL CODE
+
+
 -- Tabela para os Professores
 CREATE TABLE professores (
     id_professor INT PRIMARY KEY AUTO_INCREMENT,

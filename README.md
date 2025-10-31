@@ -3,7 +3,7 @@
 📚 Agenda Estudantil (JSP)
 Um sistema web para gestão de alunos, professores e atividades acadêmicas.
 
-p> <img alt="Status do Projeto" src="https://img.shields.io/badge/Status-Completo-brightgreen.svg"> <img alt="Linguagem" src="https://img.shields.io/badge/Linguagem-Java%20(JSP)-orange?style=flat&logo=java"> </p>
+<img alt="Status do Projeto" src="https://img.shields.io/badge/Status-Completo-brightgreen.svg"> <img alt="Linguagem" src="https://img.shields.io/badge/Linguagem-Java%20(JSP)-orange?style=flat&logo=java"> </p>
 
 </div>
 
